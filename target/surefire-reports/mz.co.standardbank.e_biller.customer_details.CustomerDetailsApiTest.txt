@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mz.co.standardbank.e_biller.customer_details.CustomerDetailsApiTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.453 s - in mz.co.standardbank.e_biller.customer_details.CustomerDetailsApiTest

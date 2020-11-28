@@ -1,0 +1,8 @@
+mz\co\standardbank\e_biller\client\ClientRepositoryIntegrationTest.class
+mz\co\standardbank\e_biller\biller\BillerControllerTest.class
+mz\co\standardbank\e_biller\customer_details\CustomerDetailsApiTest.class
+mz\co\standardbank\e_biller\EBillerApplicationTests.class
+mz\co\standardbank\e_biller\sms\SmsGatewayTest.class
+mz\co\standardbank\e_biller\biller\CompanyRepositoryIntegrationTest.class
+mz\co\standardbank\e_biller\invoice\InvoiceRepositoryIntegrationTest.class
+mz\co\standardbank\e_biller\transfer\IntrabankTransferTest.class
